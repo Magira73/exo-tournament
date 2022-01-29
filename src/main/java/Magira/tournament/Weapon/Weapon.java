@@ -11,5 +11,6 @@ public class Weapon {
 	public int getDamage() {
 		return this.damage;
 	}
+	
 
 }
